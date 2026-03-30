@@ -1,3 +1,4 @@
+# This repository is archived under Pulsar-Edit as it's no longer used.
 # Pulsar Website ([https://pulsar-edit.dev](https://pulsar-edit.dev))
 
 This is the website repo for Pulsar Edit. It contains our documentation and
